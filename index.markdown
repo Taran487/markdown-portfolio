@@ -1,14 +1,31 @@
 <!--command shift V on mac --->
 
-# my markdiown portfolio
+# my markdown portfolio
 
 ## Welcome
 
-Welcome to my nonline markdown portfolio!
+Welcome to my online markdown portfolio!
 
 ## About Me
 
-May name is Taran.I learn code.
+I am Web Developer student and learning moderen web technologies. 
+
+## Current Learnings
+
+- HTML 
+- CSS
+- JavaScript
+- Database (MySQL)
+- Git & GitHub
+- Markdown
+- AI tools
+
+## Future Goals
+
+My aim is to become a Full Stack Developer.This portfolio shows my learnings and projects.
+
+## Navigation
+- [Projects](projects.markdown)
 
 This text is **bold** and this is *italic*. This is ***bold and italic***.
 
