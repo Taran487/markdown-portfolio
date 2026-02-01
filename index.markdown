@@ -12,7 +12,7 @@
 ***Aspiring Full Stack Developer*** 🌐
 
 ## About Me 👩‍💻
-Hi!👋 I'm Taranpreet Kaur, **Web Developer student**, learning moderen web technologies to become a ***Full stack Developer***. 
+Hi!👋 I'm Taranpreet Kaur, **Web Development student**, learning moderen web technologies to become a ***Full stack Developer***. 
 
 ## Currently Learning
 - HTML
