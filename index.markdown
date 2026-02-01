@@ -22,7 +22,8 @@ Hi!👋 I'm Taranpreet Kaur, **Web Developer student**, learning moderen web tec
 - C#
 - GitHub
 - Markdown
-- AI Tools    
+- Ai Tools
+    
 -------------------------
 
 #### Here you'll find:
