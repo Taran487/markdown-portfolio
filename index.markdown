@@ -1,71 +1,33 @@
 <!--command shift V on mac --->
 
-# my markdown portfolio
+# Home
+[Home](index.markdown)  |   [Projects](projects.markdown)   |   [Contact](contact.markdown) 
 
-## Welcome
+-------------------------
 
-Welcome to my online markdown portfolio!
+## Welcome to My Portfolio  🚀
 
-## About Me
+![Profile Pcture](images/t2.png)
+### Taranpreet Kaur
+***Aspiring Full Stack Developer*** 🌐
 
-I am Web Developer student and learning moderen web technologies. 
+## About Me 👩‍💻
+Hi!👋 I'm Taranpreet Kaur, **Web Developer student**, learning moderen web technologies to become a ***Full stack Developer***. 
 
-## Current Learnings
-
-- HTML 
+## Currently Learning
+- HTML
 - CSS
 - JavaScript
-- Database (MySQL)
-- Git & GitHub
+- Database (MySQL) 
+- C#
+- GitHub
 - Markdown
-- AI tools
+- AI Tools    
+-------------------------
 
-## Future Goals
+#### Here you'll find:
 
-My aim is to become a Full Stack Developer.This portfolio shows my learnings and projects.
-
-## Navigation
-- [Projects](projects.markdown)
-
-This text is **bold** and this is *italic*. This is ***bold and italic***.
-
-## Employment
+- My learnings and Projects.
+- My contact information to connect with me.
 
 
-### Humber college
-
-## Education
-
-1. Humber college - Computer Information System
-2. Royal Roads - Learning and Technology
-
-## Projects
-
-- [Live Code](https://tasks.brickmmo.com/markdown-portfolio)
-
-![Live Code](images/workplace.jpg)
-
-- [GitHub Contributions](https://tasks.brickmmo.com/markdown-portfolio)
-<img src="images/workplace.jpg" width="100">
-
-## Contact and social
-
-make sure ou pick a case and stick with it .I'm using `kebab-case`
-
-you can have multu line code snippets:
-
-```javascript
-
-let test="Hello";
-alert(test);
-```
-| Languages   | Type        |
-| ---------   | ----        |
-| PHP         | Server side |
-| javascript  | Client      |
-| python      | Server side |
-
-> Blockquote
-
->[!NOTE]
->This is my note.
